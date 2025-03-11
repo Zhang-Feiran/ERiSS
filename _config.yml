@@ -3,13 +3,12 @@ title:            Empirical Research in Social Sciences
 tagline:          'ERiSS'
 description:      'A foundational course for aspiring social scientific researchers.'
 url:              https://zhang-feiran.github.io/ERiSS
-baseurl:          'https://zhang-feiran.github.io/ERiSS'
-paginate:         5
+baseurl:          ''
+paginate:         10
 
 # About and contact
 author:
-  name:           'Feiran Zhang'
-  url:            
+  name:           'Feiran Zhang'          
 
 # Gems
 plugins:
