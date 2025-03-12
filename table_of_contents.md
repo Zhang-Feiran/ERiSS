@@ -35,18 +35,18 @@ title: Table of Contents
 - Formulating Null and Alternative Hypotheses
 
 ## Unit 3: Research Design
-### 3.1 Introduction to Data
-- Data Types
-- Levels of Measurement
-- Data Structures
-
-### 3.2 Variables: Conceptualization, Operationalization, and Measurement
+### 3.1 Variables and Data
 - Variables and Their Roles in Research
 - Conceptualization of Variables
+  - Dimensionality
 - Operationalization of Variables
+  - Levels of Observability
+  - Levels of Measurement
 - Measurement of Variables
+- Data Types
+- Data Structures
 
-### 3.3 Research Designs
+### 3.2 Research Designs
 - Sources of Variability and Identification
 - Experiments and Randomized Control Trials
 - Quasi-experiments and Natural Experiments
