@@ -15,11 +15,24 @@ title: Table of Contents
 
 ### 1.3 Research Ethics
 - Unique Challenges in Social Scientific Empirical Research
-- Ethical Principles
+- Ethical Principles, Guidelines, and Practices
 - Malpractices in Social Scientific Empirical Research
-- Common Guidelines and Practices
+
 
 ## Unit 2: Research Exploration
+### 2.1 Brainstorming Research Topics
+
+### 2.2 Reading, Organizing, and Evaluating Existing Literature
+- Sources of Research Papers
+- Use of Online Libraries and Databases
+- Use of Research Management Tools
+- Reading a Research Paper
+- Annotated Bibliography
+- Writing a Literature Review
+
+### 2.3 Sharpening Research Focus
+- Developing a Research Question
+- Formulating Null and Alternative Hypotheses
 
 ## Unit 3: Research Design
 
