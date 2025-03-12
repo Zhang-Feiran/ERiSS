@@ -18,7 +18,6 @@ title: Table of Contents
 - Ethical Principles, Guidelines, and Practices
 - Malpractices in Social Scientific Empirical Research
 
-
 ## Unit 2: Research Exploration
 ### 2.1 Brainstorming Research Topics
 
@@ -59,6 +58,24 @@ title: Table of Contents
 - Sampling Methods and Biases
 - Quantitative Data Collection Methods
 - Qualitative Data Collection Methods
+
+### 4.2 Advanced Topics in Data Collection
+- Cognitive Biases in Questionnaire Design
+
+### 4.3 Quantitative Data Analysis
+- Descriptive Statistics
+- Inferential Statistics
+
+### 4.4 Advanced Topics in Quantitative Data Analysis
+- Causal Inference in Non-experimental Research Designs
+  - Endogeneity, Omitted Variable Bias, and Selection Bias
+  - Difference in Differences (DiD)
+  - Regression Discontinuity Design (RDD)
+  - Propensity Score Matching (PSM)
+  - Instrumental Variables (IV)
+  - Generalized Method of Moments (GMM)
+
+### 4.5 Qualitative Data Analysis
 
 ## Unit 5: Research Presentation
 
