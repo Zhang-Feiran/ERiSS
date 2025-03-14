@@ -61,6 +61,10 @@ title: Table of Contents
 
 ### 4.2 Advanced Topics in Data Collection
 - Cognitive Biases in Questionnaire Design
+  - Anchoring Bias
+  - Availability Bias
+  - Conformity Bias
+  - Social Desirability Bias
 
 ### 4.3 Quantitative Data Analysis
 - Descriptive Statistics
