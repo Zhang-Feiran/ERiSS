@@ -82,5 +82,10 @@ title: Table of Contents
 ### 4.5 Qualitative Data Analysis
 
 ## Unit 5: Research Presentation
+### 5.1 Research Posters
+
+### 5.2 Topics in Quantitative Data Visualization
+- R for Data Visualization
+- 
 
 ## Appendices
