@@ -69,6 +69,7 @@ title: Table of Contents
 ### 4.3 Quantitative Data Analysis
 - Descriptive Statistics
 - Inferential Statistics
+  - Hypothesis Testing
 
 ### 4.4 Advanced Topics in Quantitative Data Analysis
 - Causal Inference in Non-experimental Research Designs
