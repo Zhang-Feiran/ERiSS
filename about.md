@@ -15,8 +15,11 @@ Through this course, learners will become
 - **disciplined project and self-managers**, who set project and personal goals and develop strategies to achieve them, anticipate challenges and obstacles and take actions, meet deadlines, and demonstrate resilience and positive thinking when facing adversaries and setbacks.
 - **digital citizens**, who are proficient in using online libraries and databases for sources and secondary data, in using research management tools to track sources, organize information, and take notes, in using creative tools to convey information digitally, and in using statistical and programming software for data analysis and visualization.
 
-## Conceptual Understanding  
+## Conceptual Understandings  
 Along with skill acquisition and development, learners will also cultivate key conceptual understanding such as
 - **cause** and **consequence** as the core inquiry in empirical research, between dependent and independent variables, and with the presence of confounding variables.
 - **change** as a necessary condition for the identification of causal effects and as a needed response in research design and methodology when facing changes in data availability
 - **bias** as a source of error introduced in different stages of research
+
+## Assessment Model
+This course's assessments emphasize the development and mastery of skills and competencies. Assessments may take many forms, such as poster presentations, annotated bibliographies, written proposals, and capstone project gallery walks.
