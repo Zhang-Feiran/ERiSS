@@ -85,6 +85,7 @@ title: Table of Contents
 ### 5.1 Research Posters
 
 ### 5.2 Topics in Quantitative Data Visualization
+- Introduction to Data Visualization: Diagrams and Charts
 - R for Data Visualization
 - 
 
