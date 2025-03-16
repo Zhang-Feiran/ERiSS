@@ -22,4 +22,4 @@ Along with skill acquisition and development, learners will also cultivate key c
 - **bias** as a source of error introduced in different stages of research
 
 ## Assessment Model
-This course's assessments emphasize the development and mastery of skills and competencies. Assessments may take many forms, such as poster presentations, annotated bibliographies, written proposals, and capstone project gallery walks.
+This course's assessments emphasize the learners' development and progress towards the learner profile. Specifically, the assessments use a standards-based approach with six criteria from the learner profile and four mastery levels for each. A complete assessment rubric can be found here.
