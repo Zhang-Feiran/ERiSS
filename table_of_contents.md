@@ -18,6 +18,8 @@ title: Table of Contents
 - Ethical Principles, Guidelines, and Practices
 - Malpractices in Social Scientific Empirical Research
 
+---
+
 ## Unit 2: Research Exploration
 ### 2.1 Brainstorming Research Topics
 
@@ -32,6 +34,8 @@ title: Table of Contents
 ### 2.3 Sharpening Research Focus
 - Developing a Research Question
 - Formulating Null and Alternative Hypotheses
+
+---
 
 ## Unit 3: Research Design
 ### 3.1 Variables and Data
@@ -51,6 +55,8 @@ title: Table of Contents
 - Quasi-experiments and Natural Experiments
 - Observational Studies
 - Validities in Research Designs
+
+---
 
 ## Unit 4: Research in Action
 ### 4.1 Data Collection
@@ -82,6 +88,8 @@ title: Table of Contents
 
 ### 4.5 Qualitative Data Analysis
 
+---
+
 ## Unit 5: Research Presentation
 ### 5.1 Research Posters
 
@@ -89,5 +97,7 @@ title: Table of Contents
 - Introduction to Data Visualization: Diagrams and Charts
 - R for Data Visualization
 - 
+
+---
 
 ## Appendices
