@@ -23,3 +23,17 @@ Along with skill acquisition and development, learners will also cultivate key c
 
 ## Assessment Model
 This course's assessments emphasize the learners' development and progress towards the learner profile. Specifically, the assessments use a standards-based approach with six criteria from the learner profile and four mastery levels for each. A complete assessment rubric can be found here.
+
+## Timeline
+```mermaid
+  timeline
+    title: Academic Year Timeline
+    section Semester 1
+        Unit 1 : 1
+        Unit 2 : 2
+        Unit 3 : 3
+    section Semester 2
+        Unit 4 : 4
+        Unit 5 : 5
+        Capstone Project : 6
+```
