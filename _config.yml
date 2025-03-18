@@ -5,6 +5,7 @@ description:      'A foundational course for aspiring social scientific research
 url:              https://zhang-feiran.github.io
 baseurl:          '/ERiSS'
 paginate:         10
+markdown:         kramdown
 
 # About and contact
 author:
