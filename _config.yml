@@ -6,7 +6,6 @@ url:              https://zhang-feiran.github.io
 baseurl:          '/ERiSS'
 paginate:         10
 markdown:         kramdown
-mermaid:          true
 
 # About and contact
 author:
@@ -16,6 +15,7 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-optional-front-matter
 
 # Custom vars
 # version:          3.0.0
