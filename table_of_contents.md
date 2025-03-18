@@ -5,7 +5,7 @@ title: Table of Contents
 
 ## Unit 1: Introduction
 ### 1.1 Social Sciences and Inquiry
-- [Ordinary Human Inquiry](/content/unit_1/ordinary_human_inquiry.md)
+- [Ordinary Human Inquiry](/content/unit_1/chapter_1_1/ordinary_human_inquiry.md)
 - Social Scientific Inquiry
 - Social Sciences: Scope, Evidence, Methods, and Tools
 
