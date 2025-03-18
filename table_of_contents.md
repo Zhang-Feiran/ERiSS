@@ -78,7 +78,7 @@ title: Table of Contents
   - Hypothesis Testing
 
 ### 4.4 Advanced Topics in Quantitative Data Analysis
-- Causal Inference in Non-experimental Research Designs
+- Causal Inference in Non-experimental Designs
   - Endogeneity, Omitted Variable Bias, and Selection Bias
   - Difference in Differences (DiD)
   - Regression Discontinuity Design (RDD)
@@ -87,6 +87,10 @@ title: Table of Contents
   - Generalized Method of Moments (GMM)
 
 ### 4.5 Qualitative Data Analysis
+- Content Analysis
+- Thematic Analysis
+- Narrative Analysis
+- Grounded Theory Analysis
 
 ---
 
@@ -96,8 +100,10 @@ title: Table of Contents
 ### 5.2 Topics in Quantitative Data Visualization
 - Introduction to Data Visualization: Diagrams and Charts
 - R for Data Visualization
-- 
 
 ---
 
 ## Appendices
+### Mathematical Notes
+
+### Codes
