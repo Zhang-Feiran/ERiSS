@@ -40,4 +40,4 @@ This course's assessments emphasize the learners' development and progress towar
 
 This is a test
 
-$$ \sqrt{m} = n\in\mathcal{N} $$
+$$ \sqrt{m} = n\in\mathbb{N} $$
