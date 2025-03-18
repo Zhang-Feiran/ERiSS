@@ -11,4 +11,5 @@ In groups, examine the motivations, methods, and outcomes of the following case 
 
 | Case study |    Link    |
 | ---------- | ---------- |
-| The Silk Road | [The Silk Road](https://www.youtube.com/watch?v=vn3e37VWc0k&ab_channel=TED-Ed) |
+| 1 | [The Silk Road](https://www.youtube.com/watch?v=vn3e37VWc0k&ab_channel=TED-Ed) |
+| 2 | [James Cameron's Deepsea Challenge](https://www.youtube.com/watch?v=-8r_-79SjpA&ab_channel=NationalGeographic) |
