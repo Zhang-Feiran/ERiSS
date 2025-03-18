@@ -6,6 +6,7 @@ url:              https://zhang-feiran.github.io
 baseurl:          '/ERiSS'
 paginate:         10
 markdown:         kramdown
+mermaid:          true
 
 # About and contact
 author:
