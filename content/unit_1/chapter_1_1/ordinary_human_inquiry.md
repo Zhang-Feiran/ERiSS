@@ -35,7 +35,7 @@ Share your findings with other groups verbally. After sharing, discuss the follo
 - What are some lasting impacts of the exploration to date?
 
 ### Activity 2a: Personal Inquiry
-Individually and with the help of platforms such as [Padlet](www.padlet.com), share one of your personal inquiry examples with a focus on the following aspects:
+Individually and with the help of platforms such as [Padlet](https://www.padlet.com), share one of your personal inquiry examples with a focus on the following aspects:
 - motivation(s) behind your inquiry
 - approach(es) to your inquiry
 - challenge(s) encountered
