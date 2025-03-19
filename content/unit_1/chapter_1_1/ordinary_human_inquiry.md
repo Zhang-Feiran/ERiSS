@@ -61,5 +61,15 @@ The mock "Exploration Proposal" shall be presented in the form of a poster to be
 ## Key Understanding and Knowledge
 - Inquiry and exploration are parts of human nature and are hardwired for better human survival and adaptation.
 - Inquiry and exploration also fulfill higher-level needs for personal growth and [self-actualization](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
-   
-
+- There are many different ways of knowing, broadly categorized into
+   - direct observation and experience: sensory perception, emotions, intuition, logical reasoning
+   - agreed-upon knowledge: authority, faith, traditions
+- Different ways of knowing may be subject to different errors, for example
+   - inaccurate observations
+   - over-generalization
+   - selective observations
+   - logical fallacies
+   - evolving, non-conforming realities
+- To evaluate the validity of knowledge, humans rely on
+   - logical support: theory
+   - empirical support: evidence
