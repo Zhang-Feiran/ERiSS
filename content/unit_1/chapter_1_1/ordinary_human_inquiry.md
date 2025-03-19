@@ -8,7 +8,17 @@ Through different learning experiences such as case studies and individual story
 
 ---
 
-## Activity 1: Voyages of Inquiry 
+## Inquiry Questions
+1. Why do we need to know?
+2. How do we know what we know?
+3. How do we know what we do not know?
+4. How do we know what we know is true?
+5. Do we make mistakes in the process of knowing?
+
+---
+
+## Learning Experiences
+### Activity 1: Voyages of Inquiry 
 In groups and with the help of additional research, examine the motivations, methods, and outcomes of the following cases:
 
 |    Case    |    Link    |
@@ -24,7 +34,7 @@ Share your findings with other groups verbally. After sharing, discuss the follo
 - What ethical questions arise from exploration and inquiry?
 - What are some lasting impacts of the exploration to date?
 
-## Activity 2a: Personal Inquiry
+### Activity 2a: Personal Inquiry
 Individually and with the help of platforms such as Padlet(R), share one of your personal inquiry examples with a focus on the following aspects:
 - motivation(s) behind your inquiry
 - approach(es) to your inquiry
@@ -33,7 +43,7 @@ Individually and with the help of platforms such as Padlet(R), share one of your
 
 Once you have shared yours, you can explore and connect with others' inquiries and explorations for common aspects.
 
-## Activity 2b: Collaborative Inquiry
+### Activity 2b: Collaborative Inquiry
 Based on the connections established in Activity 2a, form your inquiry groups of 3-4 people. You may want to consider forming a group with
 - people who share a lot of similarities in their personal inquiries to increase the chance of a shared interest
 - people who share little to no similarity in their personal inquiries to increase diversity and the benefit therein
@@ -45,3 +55,8 @@ Once the group is formed, find a common interest among group members and design 
 - hoped-for outcomes
 
 The mock "Exploration Proposal" shall be presented in the form of a poster to be presented in the following class.
+
+---
+
+## Key Understanding and Knowledge
+
