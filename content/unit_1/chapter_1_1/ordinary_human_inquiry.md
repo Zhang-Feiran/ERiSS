@@ -35,7 +35,7 @@ Share your findings with other groups verbally. After sharing, discuss the follo
 - What are some lasting impacts of the exploration to date?
 
 ### Activity 2a: Personal Inquiry
-Individually and with the help of platforms such as Padlet(R), share one of your personal inquiry examples with a focus on the following aspects:
+Individually and with the help of platforms such as [Padlet](www.padlet.com), share one of your personal inquiry examples with a focus on the following aspects:
 - motivation(s) behind your inquiry
 - approach(es) to your inquiry
 - challenge(s) encountered
@@ -48,13 +48,13 @@ Based on the connections established in Activity 2a, form your inquiry groups of
 - people who share a lot of similarities in their personal inquiries to increase the chance of a shared interest
 - people who share little to no similarity in their personal inquiries to increase diversity and the benefit therein
 
-Once the group is formed, find a common interest among group members and design a mock "Exploration Proposal" with
+Once the group is formed, find a common interest among group members and design a mock exploration proposal with
 - purposes of the exploration
 - methods of the exploration
 - anticipated challenges
 - hoped-for outcomes
 
-The mock "Exploration Proposal" shall be presented in the form of a poster to be presented in the following class.
+The mock exploration proposal shall be presented in the form of a poster to be presented in the following class.
 
 ---
 
