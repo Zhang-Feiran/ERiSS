@@ -4,11 +4,13 @@ title: Ordinary Human Inquiry
 ---
 
 ## Learning Objectives
+
 Through different learning experiences such as case studies and individual story-telling, learners will investigate the *motivations*, *methods*, and *impacts* of ordinary human inquiry, and work on their **social** and **communication** skills.
 
 ---
 
 ## Inquiry Questions
+
 1. Why do we need to know?
 2. How do we know what we know?
 3. How do we know what we do not know?
@@ -18,7 +20,9 @@ Through different learning experiences such as case studies and individual story
 ---
 
 ## Learning Experiences
-### Activity 1: Voyages of Inquiry 
+
+### Activity 1: Voyages of Inquiry
+
 In groups and with the help of additional research, examine the motivations, methods, and outcomes of the following cases:
 
 |    Case    |    Link    |
@@ -35,6 +39,7 @@ Share your findings with other groups verbally. After sharing, discuss the follo
 - What are some lasting impacts of the exploration to date?
 
 ### Activity 2a: Personal Inquiry
+
 Individually and with the help of platforms such as [Padlet](https://www.padlet.com), share one of your personal inquiry examples with a focus on the following aspects:
 - motivation(s) behind your inquiry
 - approach(es) to your inquiry
@@ -44,6 +49,7 @@ Individually and with the help of platforms such as [Padlet](https://www.padlet.
 Once you have shared yours, you can explore and connect with others' inquiries and explorations for common aspects.
 
 ### Activity 2b: Collaborative Inquiry
+
 Based on the connections established in Activity 2a, form your inquiry groups of 3-4 people. You may want to consider forming a group with
 - people who share a lot of similarities in their personal inquiries to increase the chance of a shared interest
 - people who share little to no similarity in their personal inquiries to increase diversity and the benefit therein
@@ -59,6 +65,7 @@ The mock exploration proposal shall be presented in the form of a poster to be p
 ---
 
 ## Key Understanding and Knowledge
+
 - Inquiry and exploration are parts of human nature and are hardwired for better human survival and adaptation.
 - Inquiry and exploration also fulfill higher-level needs for personal growth and self-actualization (see [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)).
 - There are many different ways of knowing, broadly categorized into
