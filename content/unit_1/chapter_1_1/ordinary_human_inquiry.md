@@ -39,9 +39,9 @@ Based on the connections established in Activity 2a, form your inquiry groups of
 - people who share little to no similarity in their personal inquiries to increase diversity and the benefit therein
 
 Once the group is formed, find a common interest among group members and design a mock "Exploration Proposal" with
-- Purpose of the exploration
-- Methods of the exploration
-- Anticipated challenges
-- Hoped-for outcomes
+- purposes of the exploration
+- methods of the exploration
+- anticipated challenges
+- hoped-for outcomes
 
 The mock "Exploration Proposal" shall be presented in the form of a poster to be presented in the following class.
