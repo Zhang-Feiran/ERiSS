@@ -59,4 +59,7 @@ The mock "Exploration Proposal" shall be presented in the form of a poster to be
 ---
 
 ## Key Understanding and Knowledge
+- Inquiry and exploration are parts of human nature and are hardwired for better human survival and adaptation.
+- Inquiry and exploration also fulfill higher-level needs for personal growth and [self-actualization](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs).
+   
 
