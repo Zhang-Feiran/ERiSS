@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+mermaid: true
 ---
 
 ## Course Overview
