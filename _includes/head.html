@@ -25,6 +25,7 @@
   {% include mathjax.html %}
 
   <!-- Mermaid -->
-  {% include mermaid.html %}
-
+  {% if page.mermaid %}
+    {% include mermaid.html %}
+  {% endif %}
 </head>
