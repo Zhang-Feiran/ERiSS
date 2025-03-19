@@ -4,7 +4,7 @@ title: Ordinary Human Inquiry
 ---
 
 ## Learning Objectives
-Through different learning experiences such as case studies and collaborative story-telling, learners will investigate the motivations, methods, and impacts of ordinary human inquiry, and work on their social and communication skills.
+Through different learning experiences such as case studies and collaborative story-telling, learners will investigate the *motivations*, *methods*, and *impacts* of ordinary human inquiry, and work on their **social** and **communication** skills.
 
 ---
 
@@ -15,5 +15,5 @@ In groups and with the help of additional research, examine the motivations, met
 | ---------- | ---------- |
 | 1 | [The Silk Road](https://www.youtube.com/watch?v=vn3e37VWc0k&ab_channel=TED-Ed) |
 | 2 | [James Cameron's Deepsea Challenge](https://www.youtube.com/watch?v=-8r_-79SjpA&ab_channel=NationalGeographic) |
-| 3 | |
+| 3 | [The Manhattan Project](https://www.youtube.com/watch?v=4IqKdf6In_k&ab_channel=SciShow) |
 | 4 | |
