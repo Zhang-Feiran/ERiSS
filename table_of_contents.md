@@ -8,8 +8,7 @@ title: Table of Contents
 ### 1.1 Social Sciences and Inquiry
 
 - [Ordinary Human Inquiry](/content/unit_1/chapter_1_1/ordinary_human_inquiry.md)
-- Social Scientific Inquiry
-- Social Sciences: Scope, Evidence, Methods, and Tools
+- [Social Scientific Inquiry](/content/unit_1/chapter_1_1/social_scientific_inquiry.md)
 
 ### 1.2 Empirical Research
 
