@@ -48,6 +48,14 @@ Based on the sharing in Activity 1b, evaluate the following statements
 
 ## Key Takeaways
 
+- Social science is the "study of people, as individuals, communities, and societies; their behaviors and interactions with each other, and with their built, technological, and natural environments." ([Academy of Social Sciences](https://acss.org.uk/what-is-social-science/))
+- Social sciences encompass many disciplines such as anthropology, economics, education, geography, international relations, political science, psychology, sociology, and more.
+- Different social sciences ask different questions, but most of them revolve around humans, their behaviors, their interactions, and their constructs (e.g. markets, institutions, legal systems, forms of government, etc.)
+- Social scientists rely on both theory (logic) and data (observation) to guide their inquiries; depending on the inquiry, they may use the data to construct or test a theory.
+- Social scientists in general care more about general/aggregate patterns than specific/individual cases, and thus adopt nomothetic approach, seeking to understand the general or the aggregate.
+- Some social scientific inquiries require the use of idiographic approach where specific or individual cases are to be understood.
+- Again, depending on the inquiry, both quantitative and qualitative data will be used by the social scientists to address their research questions.
+
 ---
 
 ## Resources
