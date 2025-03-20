@@ -13,4 +13,12 @@ Learners will explore features of inquiry that are specific and possibly unique 
 
 ## Learning Experiences
 
+### Activity 1a: What Are Social Sciences?
+
+Use post-its or technology, write down as many specific disciplines that you consider to be part of social sciences as you can. Explain what these disciplines share in common and articulate why they all belong to social sciences. Highlight those disciplines about which you are interested in knowing more.
+
+### Activity 1b: What Are Social Sciences About?
+
+Based on Activity 1a, form groups of 3-4 learners with similar passion
+
 ## Key Takeaways
