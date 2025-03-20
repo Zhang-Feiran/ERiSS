@@ -40,3 +40,9 @@ The end-products include
 ---
 
 ## Key Takeaways
+
+---
+
+## Resources
+
+
