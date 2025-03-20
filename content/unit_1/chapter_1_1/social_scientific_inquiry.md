@@ -37,6 +37,13 @@ The end-products include
 - a one-page poster with appropriate visual aids
 - group presentation in 8-10 minutes
 
+### Activity 1c: How Do Social Scientists Approach Their Inquiries?
+
+Based on the sharing in Activity 1b, evaluate the following statements
+- Social scientists aim to look for and explain general/aggregate patterns rather than specific/individual cases.
+- Social scientists use data to construct new theories rather than using them to test exisiting theories.
+- Social scientists rely more on quantitative data than qualitative data.
+
 ---
 
 ## Key Takeaways
