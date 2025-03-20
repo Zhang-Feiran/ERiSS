@@ -12,6 +12,7 @@ Learners will explore features of inquiry that are specific and possibly unique 
 1. What are social sciences?
 2. What questions do social scientists ask and seek to answer?
 3. How do social scientists approach their inquiries, possibly differently?
+4. Why may the approaches used in social scientific inquiries be different?
 
 ---
 
