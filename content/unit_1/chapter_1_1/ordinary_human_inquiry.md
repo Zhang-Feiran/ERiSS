@@ -3,6 +3,8 @@ layout: default
 title: Ordinary Human Inquiry
 ---
 
+# Ordinary Human Inquiry
+
 ## Learning Objectives
 
 Through different learning experiences such as case studies and individual story-telling, learners will investigate the *motivations*, *methods*, and *impacts* of ordinary human inquiry, and work on their **communication** and **social** skills.
