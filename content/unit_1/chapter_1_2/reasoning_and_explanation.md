@@ -3,6 +3,8 @@ layout: default
 title: Reasoning and Explanation
 ---
 
+# Reasoning and Explanation
+
 ## Learning Objectives
 
 ---
